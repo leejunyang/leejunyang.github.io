@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Li Junyang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a third year graduate student from [Tsinghua-SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). 
+I'm a third year graduate student from [Tsinghua-SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). //
 My research interest includes Computer Vision, Robotics, Machine Learning, and BioMedical Engineering.
 
 I received my Bachelor of Engineering in Measurement and Control Technology and Instrument at Northestern University,China. 
