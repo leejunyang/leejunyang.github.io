@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Junyang LI / Site Title"
+title                    : "Li Junyang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "junyang li"
 description              : &description "personal description"
