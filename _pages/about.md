@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a third year graduate student from [Tsinghua-SIGS](https://www.sigs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/).
 
-My research interest includes Computer Vision, Robotics, Machine Learning, and BioMedical Engineering.
+My research interest includes BioMedical Engineering, Computer Vision, Robotics, Machine Learning applied in Biomedical Engineering.
 
 I will graduate from Tsinghua University SIGS in June next year.Looking forward to a smooth graduation!!
 
