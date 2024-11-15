@@ -12,8 +12,6 @@ My research interest includes Computer Vision, Robotics, Machine Learning, and B
 
 I received my Bachelor of Engineering in Measurement and Control Technology and Instrument at Northestern University,China. 
 
-You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-
 [Email](mailto:lijunsunny@outlook.com) / [Github](https://github.com/leejunyang) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 
 A data-driven personal website
