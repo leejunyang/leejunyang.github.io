@@ -26,7 +26,7 @@ author:
   bio              : "Persuing the master's degree in SIGS.Tsinghua University"
   location         : "China Shenzhen"
   employer         : "Tsinghua University"
-  uri              : "https://leejunyang.github.io/"
+  uri              : https://leejunyang.github.io
   email            : "lijunsunny@outlook.com" 
 
   # Academic websites
