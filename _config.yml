@@ -23,10 +23,10 @@ author:
   avatar           : "profile.png"
   name             : "Li Junyang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Persuing the master's degree in Tsinghua University SIGS"
   location         : "Shenzhen China"
   employer         : "Tsinghua University"
-  uri              : # URL
+  uri              : "https://leejunyang.github.io/"
   email            : "lijunsunny@outlook.com" 
 
   # Academic websites
