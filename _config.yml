@@ -23,19 +23,19 @@ author:
   avatar           : "profile.png"
   name             : "Li Junyang"
   pronouns         : # example: "she/her"  
-  bio              : "Persuing the master's degree in Tsinghua University SIGS"
-  location         : "Shenzhen China"
+  bio              : "Persuing the master's degree in SIGS.Tsinghua University"
+  location         : "China Shenzhen"
   employer         : "Tsinghua University"
   uri              : "https://leejunyang.github.io/"
   email            : "lijunsunny@outlook.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
